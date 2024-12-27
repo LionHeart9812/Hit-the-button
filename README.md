@@ -1,6 +1,4 @@
-Hello! These are my Arduino Projects from the Maker Kit from Franzis! (German company)
-I will also add some of my own projects for the Arduino Nano (old)
-Some of the projects are in german, so don't wonder if the names are kinda weird!
+This is my game on the Arduino called Hit the buttons!
 
-If you want to check out franzis here's their website:
-https://www.franzis.de
+You can use code and pictures as insipartion for your own projects!
+Thank you for your participation!
